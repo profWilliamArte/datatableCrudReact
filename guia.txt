@@ -8,7 +8,7 @@
 8) npm i axios
    npm i react-icons recharts
 
-9) importar los archivos de bootstrap
+9) importar los archivos de bootstrap en el Main.jsx antes de index.css
     import "bootstrap/dist/css/bootstrap.min.css";
 
    
