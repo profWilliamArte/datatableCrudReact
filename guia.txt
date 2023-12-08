@@ -1,11 +1,12 @@
 1) npm create vite@latest .
 2) npm install (ejecutar npm run dev)
 3) npm install react-bootstrap bootstrap
-4) npm install react-router-dom
+4) npm install react-router-dom 
 5) npm install react-bootstrap-icons --save
 6) npm install sweetalert2
 7) npm i react-data-table-component
 8) npm i axios
+   npm react-icons recharts
 
 9) importar los archivos de bootstrap
     import "bootstrap/dist/css/bootstrap.min.css";
