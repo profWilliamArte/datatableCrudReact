@@ -6,7 +6,7 @@
 6) npm install sweetalert2
 7) npm i react-data-table-component
 8) npm i axios
-   npm react-icons recharts
+   npm i react-icons recharts
 
 9) importar los archivos de bootstrap
     import "bootstrap/dist/css/bootstrap.min.css";
